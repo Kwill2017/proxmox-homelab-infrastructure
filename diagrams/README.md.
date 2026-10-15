@@ -1,0 +1,8 @@
+# Network Architecture Diagrams
+
+This folder contains network topology and infrastructure diagrams for my Proxmox homelab.
+
+## Planned Diagrams
+- Physical network topology
+- Proxmox virtual machine architecture
+- Docker service and storage connectivity
