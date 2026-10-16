@@ -96,3 +96,21 @@ Investigated and resolved infrastructure issues including:
 - Improve automated service recovery
 - Create infrastructure architecture diagrams
 - Document troubleshooting procedures and recovery processes
+## Project Documentation
+
+Explore the technical implementation, infrastructure, and troubleshooting processes documented throughout this project.
+
+- [Network Architecture](diagrams/)
+- [Proxmox Dashboard Screenshot](screenshots/proxmox-dashboard-portfolio.png)
+- [Docker Container Screenshot](screenshots/docker-containers.png)
+- [Linux Networking & Storage](documentation/linux-networking-storage.md)
+- [Troubleshooting & Incident Documentation](documentation/troubleshooting.md)
+
+## Professional Skills Demonstrated
+
+- Proxmox virtualization and virtual machine management
+- Ubuntu Server and Linux administration
+- Docker container deployment and troubleshooting
+- TCP/IP and virtual network configuration
+- SMB/CIFS network storage integration
+- Technical documentation and incident troubleshooting
