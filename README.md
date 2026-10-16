@@ -29,6 +29,28 @@ The environment uses Proxmox VE to host virtual machines, Ubuntu Server to run c
 - **Monitoring:** Uptime Kuma
 - **Administration:** SSH, Linux command-line tools
 
+## Docker Container Infrastructure
+
+Deployed and administered 17 Docker containers within an Ubuntu Server virtual machine hosted on Proxmox VE.
+
+### Technologies and Services
+- **Container Management:** Docker, Portainer
+- **Monitoring:** Uptime Kuma
+- **Networking:** Gluetun VPN container
+- **Application Hosting:** Plex, Immich, Seerr, Homarr
+- **Data Services:** PostgreSQL, Redis
+- **Automation:** Sonarr, Radarr, Prowlarr, Bazarr
+
+### Administration and Troubleshooting
+- Monitored container status and health using Docker CLI commands.
+- Troubleshot application connectivity, VPN configuration, and container startup issues.
+- Managed persistent storage and network-mounted volumes for containerized applications.
+- Investigated application failures using container logs and Linux troubleshooting utilities.
+
+### Docker Environment Screenshot
+
+![Docker container status](screenshots/docker-containers.png)
+
 ## Implementation
 
 ### 1. Virtualization
